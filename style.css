@@ -1,11 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Cuprum:400,400italic&subset=latin,cyrillic);
 
 body {
-/*    background-color: #999999;*/
-/*    background-image: url(images/18.jpg);*/
-/*    background-repeat: repeat;*/
-/*    background-attachment: scroll;*/
-/*    background-position: 100px 100px;*/
+    /*    background-color: #999999;*/
+    /*    background-image: url(images/18.jpg);*/
+    /*    background-repeat: repeat;*/
+    /*    background-attachment: scroll;*/
+    /*    background-position: 100px 100px;*/
     background: #999999 url(images/18.jpg) repeat-x top left
 }
 
@@ -32,10 +32,10 @@ p {color:aqua;
     word-spacing: 50px;
     line-height: 30px;
     font-family: 'Cuprum', sans-serif;
-    
-    
-    
-            
+
+
+
+
 }
 .light-blue {
     font-weight: lighter;
